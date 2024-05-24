@@ -1,0 +1,14 @@
+D:\Lập trình .NET\qlybanhang\qlybanhang\bin\Debug\qlybanhang.exe.config
+D:\Lập trình .NET\qlybanhang\qlybanhang\bin\Debug\qlybanhang.exe
+D:\Lập trình .NET\qlybanhang\qlybanhang\bin\Debug\qlybanhang.pdb
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.csproj.AssemblyReference.cache
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.frmmain.resources
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.Forms.frmchatlieu.resources
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.Properties.Resources.resources
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.csproj.GenerateResource.cache
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.csproj.CoreCompileInputs.cache
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.exe
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.pdb
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.Forms.frmnhanvien.resources
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.Forms.frmkhachhang.resources
+D:\Lập trình .NET\qlybanhang\qlybanhang\obj\Debug\qlybanhang.Forms.frmhanghoa.resources
